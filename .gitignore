@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pkl
+data/raw/
+data/processed/
+models/plots/
+models/shap_importance.csv
+models/metrics.json
+.env

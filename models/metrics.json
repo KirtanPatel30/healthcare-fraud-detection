@@ -1,0 +1,5 @@
+{
+  "auc_roc": 0.9958,
+  "avg_precision": 0.8412,
+  "f1_score": 0.918
+}
